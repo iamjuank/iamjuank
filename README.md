@@ -19,4 +19,4 @@ Here I will be uploading all the projects or codes that I am working on, whether
   </p>
 </div>
 
-<div align="center"> (https://lanyard.cnrad.dev/api/655935454440587306)](https://discord.com/users/655935454440587306) </div>
+(https://lanyard.cnrad.dev/api/655935454440587306)](https://discord.com/users/655935454440587306) theme=:dark
