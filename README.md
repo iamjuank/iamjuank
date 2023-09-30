@@ -21,4 +21,4 @@ Here I will be uploading all the projects or codes that I am working on, whether
 
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/300969054649450496)](https://discord.com/users/655935454440587306)
+[![Discord Presence](https://lanyard.cnrad.dev/api/655935454440587306)](https://discord.com/users/655935454440587306)
