@@ -11,7 +11,7 @@ Here I will be uploading all the projects or codes that I am working on, whether
 
 <div style="background-image: url("https://www.w3schools.com/w3css/img_lights.jpg"); background-color: #cccccc;">
   <p align="center">
-    <img align="center" justify="center" src="https://github-readme-stats.vercel.app/api?username=iamjuank&show_icons=true&theme=tokyonight&card_width=495&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+    <img align="center" justify="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=iamjuank&theme=tokyonight&card_width=495&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=Python,Java,C,HTML,CSS,PLpgSQL,PowerShell,Shell,R,Dockerfile,Ruby" />
   </p>
 
   <p align="center">
