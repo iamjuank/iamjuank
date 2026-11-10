@@ -1,4 +1,4 @@
-esto es mi readme de github que se ve cuando entras a mi perfil pero se rompio puedes revisarlo <!---- 👋 Hi, I’m @iamjuank
+<!---- 👋 Hi, I’m @iamjuank
 - 👀 I’m interested in Programming
 
 
