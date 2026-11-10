@@ -1,29 +1,26 @@
-<!--
-Hi, I’m @iamjuank.
+esto es mi readme de github que se ve cuando entras a mi perfil pero se rompio puedes revisarlo <!---- 👋 Hi, I’m @iamjuank
+- 👀 I’m interested in Programming
 
-Here I’ll share the projects and code I’m working on,
-and keep useful references for the future.
--->
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=iamjuank&amp;show_icons=true&amp;theme=tokyonight&amp;card_width=495&amp;include_all_commits=true"
-    alt="iamjuank's GitHub stats"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjuank&amp;theme=tokyonight&amp;card_width=495&amp;hide=Python,Java,C,HTML,CSS,PLpgSQL,PowerShell,Shell,R,Dockerfile,Ruby"
-    alt="iamjuank's most used languages"
-  />
-</p>
 
-<p align="center">
-  <a href="https://discord.com/users/655935454440587306">
-    <img
-      src="https://lanyard.cnrad.dev/api/655935454440587306"
-      alt="Discord presence"
-    />
-  </a>
-</p>
+This is Comment
+
+
+Here I will be uploading all the projects or codes that I am working on, whether they are too obvious or not, I really want to have this space as a draft of everything I may need at some point  --->
+
+<div style="background-image: url("https://www.w3schools.com/w3css/img_lights.jpg"); background-color: #cccccc;">
+  <p align="center">
+    <img align="center" justify="center" src="https://github-readme-stats.vercel.app/api?username=iamjuank&show_icons=true&theme=tokyonight&card_width=495&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+  </p>
+
+  <p align="center">
+    <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=iamjuank&theme=tokyonight&card_width=495&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=Python,Java,C,HTML,CSS,PLpgSQL,PowerShell,Shell,R,Dockerfile,Ruby" />
+  </p>
+</div>
+
+<div align="center">
+
+[![](https://lanyard.cnrad.dev/api/655935454440587306)](https://discord.com/users/655935454440587306)
+
+</div>
