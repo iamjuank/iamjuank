@@ -15,6 +15,6 @@ Here I will be uploading all the projects or codes that I am working on, whether
 
 <div align="center">
 
-[![Discord presence](https://lanyard.cnrad.dev/api/655935454440587306)](https://discord.com/users/655935454440587306)
+[![Discord presence](https://lanyard.cnrad.dev/api/655935454440587306?theme=dark&bg=1a1b27&borderRadius=10px&hideActivity=whenNotUsed&showDisplayName=true&animated=false)](https://discord.com/users/655935454440587306)
 
 </div>
